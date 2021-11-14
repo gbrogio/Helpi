@@ -1,8 +1,7 @@
-let allowKeys = [];
-const konamiCode = 'edutech';
-let tempClear;
-
 export const KonamiCode = (modalActive) => {
+  let allowKeys = [];
+  const konamiCode = 'edutech';
+  let tempClear;
   document.addEventListener('keydown', (e) => {
     clearTimeout(tempClear);
     const keyPress = e.key;
