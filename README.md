@@ -3,9 +3,6 @@
 <h1 align="center">
   Helpi <br /> Sua Plataforma de Curso 100% online.
 </h1>
-
-![app demonstration]()<p align="center">
-
  <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gbrogio/Helpi?style=for-the-badge">
 
